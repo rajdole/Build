@@ -1,0 +1,52 @@
+Version 1.13
+............
+Fixed some minor issues.
+Re-wrote the Menu code.
+Added some small features missing from the previous versions.
+Removed empty properties from the css.
+
+Version 1.12
+............
+Added: 403.php, 404.php, archive.php, page.php, single.php
+Added: Custom background support.
+Fixed: More menu display issues.
+Fixed: Font issues.
+
+Version 1.11
+............
+Fixed: Menu display issues.
+
+Version 1.1
+............
+New: Support for custom menu (3 levels deep).
+Added: Credit text & link to my website in footer.
+Fixed: A couple of alignment issues.
+Fixed: The base font-size for headings (h1 to h6).
+Fixed: Appearance of the tag cloud on default theme sidebar.
+Changed: The width of the content area is now 600 pixels.
+Changed: Slimmer sidebar with max width of 230 pixels.
+
+Version 1.05
+.............
+Minor update.
+
+Version 1.04
+.............
+Fixed element positioning after floated image.
+
+Version 1.03
+.............
+A hi-res image will automatically resize to 500px in width.
+
+Version 1.02
+.............
+Re-coded the comments.php file.
+Added permalink to date. This will allow users to open single-page view for posts with no title.
+
+Version 1.01
+............
+Fixed the comment form bug.
+
+Version 1.0
+............
+Initial release.
